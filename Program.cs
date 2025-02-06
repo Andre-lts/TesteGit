@@ -27,7 +27,7 @@ int mesesVida = idade * 12;
 Console.WriteLine("Voce tem " + diasVida + " dias e "+ mesesVida+" meses de vida");*/
 
 //Exercicio 4
-Console.WriteLine("Insira a primeira nota");
+/*Console.WriteLine("Insira a primeira nota");
 int nota1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Insira a segunda nota");
 int nota2 = int.Parse(Console.ReadLine());
@@ -36,5 +36,5 @@ int nota3 = int.Parse(Console.ReadLine());
 
 double media = (nota1 + nota2 + nota3) / 3;
 
-Console.WriteLine("A media do aluno e: " + media);
+Console.WriteLine("A media do aluno e: " + media);*/
 
